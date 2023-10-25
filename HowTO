@@ -1,7 +1,4 @@
->
-$ cd /home/nathan
-Blog
-30 minutes
+Original Owner: Nathan Catania
 
 Deploy Apache Guacamole with SSL & SAML (Azure AD & Okta) integration
 Table of Contents
@@ -1037,23 +1034,4 @@ docker compose up -d
 Navigate to your Guacamole instance, or check the Caddy logs to make sure everything is working:
 
 docker logs caddy
-Back to Table of Contents
 
-guacamolessoremote accessssl
-
-6205 Words
-
-2022-07-31
-
-b89a0d5 @ 2022-08-01
-
-READ OTHER POSTS
-←
-Netskope Quick Start Guide
-How-to Configure SSO for Netskope Cloud Exchange
-→
-© 2023
-Nathan Catania
-Powered by Hugo
-Source
-Theme
